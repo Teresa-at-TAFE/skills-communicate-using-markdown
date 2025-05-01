@@ -6,4 +6,6 @@ I checked out header sizes
 Here is Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Adding code:
+``` javascript
 var myVar = "Hello, world!";
+```
