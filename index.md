@@ -9,3 +9,7 @@ Here is Yaktocat
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# Here is a task list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
